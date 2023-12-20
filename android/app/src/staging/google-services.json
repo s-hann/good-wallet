@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "563863729718",
+    "project_id": "good-wallet-stg",
+    "storage_bucket": "good-wallet-stg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563863729718:android:955a2d03bdc39c43a2ca97",
+        "android_client_info": {
+          "package_name": "com.chuffy.goodwallet.stg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563863729718-do5rt3juucn8n1m40m9vm4l367qovsr9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSXP-h55gKhPc4svVWbisBmn2JbMiRfbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563863729718-do5rt3juucn8n1m40m9vm4l367qovsr9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "563863729718-aolan6bv2dut8r2cif1cbdjltn1ufcmh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.chuffy.goodwallet.stg"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
